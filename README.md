@@ -1,1 +1,1 @@
-# terraform-vmware-vsphere
+# Terraform-VMware-vSphere
